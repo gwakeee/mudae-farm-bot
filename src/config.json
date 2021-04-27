@@ -1,0 +1,17 @@
+{
+    "log": {
+        "prefix": "[MudaeFarm] "
+    },
+    "account": {
+        "token": "Put the token of your Discord account here."
+    },
+    "configs": {
+        "mudae_id": "ID of Mudae Bot",
+        "your_id": "ID of your Discord account",
+        "channel_id": "ID of Mudae channel",
+        
+        "catch_delay": 750,
+
+        "webhook_url": "WebHook URL"
+    }
+}
